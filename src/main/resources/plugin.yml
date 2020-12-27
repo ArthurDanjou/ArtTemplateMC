@@ -1,0 +1,6 @@
+main: fr.arthurdanjou.template.Main
+name: Template
+version: 1.0
+author: Arthur Danjou
+api-version: 1.13
+commands:
